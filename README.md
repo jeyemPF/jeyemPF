@@ -1,1 +1,1 @@
-I am ready to git add my skills, commit with the message 'I can achieve anything with dedication and perseverance,' and push to the faith-hope-and-love branch."
+“Fix the cause, not the symptom.” – Steve Maguire
