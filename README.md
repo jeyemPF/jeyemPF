@@ -1,1 +1,1 @@
-“Fix the cause, not the symptom.” – Steve Maguire
+Merge conflicts are just love letters from your coworkers.
