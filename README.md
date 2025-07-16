@@ -1,1 +1,1 @@
-Merge conflicts are just love letters from your coworkers
+Merge conflicts are just love letters from your coworkers.
