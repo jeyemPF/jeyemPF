@@ -1,2 +1,1 @@
-Merge conflicts are love letters to your co-developer.
-
+Merge conflicts are love letters to your co-developer
